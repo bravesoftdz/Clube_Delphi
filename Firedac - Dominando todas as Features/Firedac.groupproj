@@ -1,0 +1,72 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{E9CFD529-222B-4CC4-BEBA-D2BA4BECC34B}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="DDL\DDL.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Metadados\Metedados.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Ordenacao\Ordenacao.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Batchs\Batchs.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="DDL">
+        <MSBuild Projects="DDL\DDL.dproj"/>
+    </Target>
+    <Target Name="DDL:Clean">
+        <MSBuild Projects="DDL\DDL.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DDL:Make">
+        <MSBuild Projects="DDL\DDL.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Metedados">
+        <MSBuild Projects="Metadados\Metedados.dproj"/>
+    </Target>
+    <Target Name="Metedados:Clean">
+        <MSBuild Projects="Metadados\Metedados.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Metedados:Make">
+        <MSBuild Projects="Metadados\Metedados.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Ordenacao">
+        <MSBuild Projects="Ordenacao\Ordenacao.dproj"/>
+    </Target>
+    <Target Name="Ordenacao:Clean">
+        <MSBuild Projects="Ordenacao\Ordenacao.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Ordenacao:Make">
+        <MSBuild Projects="Ordenacao\Ordenacao.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Batchs">
+        <MSBuild Projects="Batchs\Batchs.dproj"/>
+    </Target>
+    <Target Name="Batchs:Clean">
+        <MSBuild Projects="Batchs\Batchs.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Batchs:Make">
+        <MSBuild Projects="Batchs\Batchs.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="DDL;Metedados;Ordenacao;Batchs"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="DDL:Clean;Metedados:Clean;Ordenacao:Clean;Batchs:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="DDL:Make;Metedados:Make;Ordenacao:Make;Batchs:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
