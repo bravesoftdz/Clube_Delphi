@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/01 13:38:51.000.438,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/20 17:44:54.000.145,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/20 17:55:35.000.161,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 13:05:05.000.480,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/28 08:59:13.000.015,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/05/08 16:40:58.000.559,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/06/04 18:27:51.000.514,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/06/04 18:47:02.000.448,D:\Projetos\Diversos\Embarcadero\Unit2.pas=C:\Users\thuli\Desktop\CleanCode\eNota.View.Principal.pas</Transaction>
+    <Transaction>2018/06/04 18:47:02.000.448,D:\Projetos\Diversos\Embarcadero\Unit2.dfm=C:\Users\thuli\Desktop\CleanCode\eNota.View.Principal.dfm</Transaction>
+    <Transaction>2018/06/04 18:47:05.000.750,D:\Projetos\Diversos\Embarcadero\Project1.dproj=C:\Users\thuli\Desktop\CleanCode\eNota.dproj</Transaction>
+    <Transaction>2021/03/15 19:46:13.026,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.Invoker.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.075,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Criar.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.100,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Email.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.109,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Enviar.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.158,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Gravar.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.183,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.ImportarPedido.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.202,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Interfaces.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.227,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.pas</Transaction>
+    <Transaction>2021/03/15 19:46:13.266,=C:\Estudos\Clube dos Programadores Delphi\CleanCode\eNota.Controller.NotaFiscal.Validar.pas</Transaction>
+  </Transactions>
+</BorlandProject>
