@@ -1,0 +1,7 @@
+unit eUsuario.Model.Conexao.Interfaces;
+
+interface
+
+implementation
+
+end.

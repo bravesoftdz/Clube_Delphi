@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/01 13:38:51.000.438,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/20 17:44:54.000.145,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/20 17:55:35.000.161,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 13:05:05.000.480,=D:\Projetos\Diversos\Embarcadero\Unit1.pas</Transaction>
+    <Transaction>2018/03/28 08:59:13.000.015,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/05/08 16:40:58.000.559,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/06/07 15:46:36.000.941,=D:\Projetos\Diversos\Embarcadero\Unit2.pas</Transaction>
+    <Transaction>2018/06/07 15:49:57.000.887,=D:\Projetos\Diversos\Embarcadero\Unit3.pas</Transaction>
+    <Transaction>2018/06/07 15:54:35.000.008,D:\Projetos\Diversos\Embarcadero\Unit2.dfm=C:\Users\thuli\Desktop\CC2\Unit2.dfm</Transaction>
+    <Transaction>2018/06/07 15:54:35.000.008,D:\Projetos\Diversos\Embarcadero\Unit2.pas=C:\Users\thuli\Desktop\CC2\Unit2.pas</Transaction>
+    <Transaction>2018/06/07 15:54:35.000.929,D:\Projetos\Diversos\Embarcadero\Project1.dproj=C:\Users\thuli\Desktop\CC2\Project1.dproj</Transaction>
+    <Transaction>2018/06/07 16:01:01.000.087,C:\Users\thuli\Desktop\CC2\Unit2.pas=C:\Users\thuli\Desktop\CC2\eUsuario.View.Principal.pas</Transaction>
+    <Transaction>2018/06/07 16:01:01.000.087,C:\Users\thuli\Desktop\CC2\Unit2.dfm=C:\Users\thuli\Desktop\CC2\eUsuario.View.Principal.dfm</Transaction>
+    <Transaction>2018/06/07 16:01:22.000.160,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:01:46.000.411,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Model.Conexao.Firedac.pas</Transaction>
+    <Transaction>2018/06/07 16:02:04.000.996,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:02:14.000.374,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Model.Conexao.Interfaces.pas</Transaction>
+    <Transaction>2018/06/07 16:07:28.000.607,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:07:40.000.310,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Model.Query.Firedac.pas</Transaction>
+    <Transaction>2018/06/07 16:21:28.000.192,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:21:41.000.269,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Model.Entidade.Usuario.pas</Transaction>
+    <Transaction>2018/06/07 16:25:27.000.990,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:25:38.000.695,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Controller.Factory.Query.pas</Transaction>
+    <Transaction>2018/06/07 16:26:12.000.242,=C:\Users\thuli\Desktop\CC2\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 16:26:21.000.110,C:\Users\thuli\Desktop\CC2\Unit1.pas=C:\Users\thuli\Desktop\CC2\eUsuario.Controller.Factory.Interfaces.pas</Transaction>
+  </Transactions>
+</BorlandProject>

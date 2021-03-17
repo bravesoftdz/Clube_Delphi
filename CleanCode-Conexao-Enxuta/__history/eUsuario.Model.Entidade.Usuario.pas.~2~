@@ -1,0 +1,37 @@
+unit eUsuario.Model.Entidade.Usuario;
+
+interface
+
+uses
+  eUsuario.Model.Conexao.Interfaces;
+
+Type
+  TModelEntidadeUsuario = class(TInterfacedObject, iEntidade)
+    private
+    public
+      constructor Create;
+      destructor Destroy; override;
+      class function New : iEntidade;
+  end;
+
+implementation
+
+{ TModelEntidadeUsuario }
+
+constructor TModelEntidadeUsuario.Create;
+begin
+
+end;
+
+destructor TModelEntidadeUsuario.Destroy;
+begin
+
+  inherited;
+end;
+
+class function TModelEntidadeUsuario.New: iEntidade;
+begin
+  Result := Self.Create;
+end;
+
+end.

@@ -1,0 +1,7 @@
+unit eUsuario.Controller.Factory.Interfaces;
+
+interface
+
+implementation
+
+end.
