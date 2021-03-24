@@ -1,0 +1,17 @@
+unit eInterface.Model.Pessoa;
+
+interface
+
+uses
+  eInterface.Model.Interfaces;
+
+type
+  TModelPessoa = class(TInterfacedObject, iPessoa)
+    function Nome(Value: String): iPessoa;
+    function SobreNome(Value: String): iPessoa;
+    function NomeCompleto: string;
+  end;
+
+implementation
+
+end.

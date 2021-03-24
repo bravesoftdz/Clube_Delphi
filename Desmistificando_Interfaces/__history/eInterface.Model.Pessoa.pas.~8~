@@ -1,0 +1,37 @@
+unit eInterface.Model.Pessoa;
+
+interface
+
+uses
+  eInterface.Model.Interfaces;
+
+type
+  TModelPessoa = class(TInterfacedObject, iPessoa)
+
+  private
+    FNome: string;
+    FSobreNome:String;
+    function Nome(Value: String): iPessoa;
+    function SobreNome(Value: String): iPessoa;
+    function NomeCompleto: string;
+  public
+    constructor Create;
+    destructor Destroy; override;
+  end;
+
+implementation
+
+{ TModelPessoa }
+
+constructor TModelPessoa.Create;
+begin
+
+end;
+
+destructor TModelPessoa.Destroy;
+begin
+
+  inherited;
+end;
+
+end.

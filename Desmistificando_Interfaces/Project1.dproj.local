@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/03/23 19:28:50.550,=C:\Users\thiag_eabw2hg\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 19:29:56.222,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.dfm=C:\Users\thiag_eabw2hg\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/03/23 19:29:56.222,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas=C:\Users\thiag_eabw2hg\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 19:30:01.845,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Project1.dproj=C:\Users\thiag_eabw2hg\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/03/23 19:34:18.351,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit2.pas</Transaction>
+    <Transaction>2021/03/23 19:38:55.312,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit3.pas</Transaction>
+    <Transaction>2021/03/23 19:39:12.216,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.Pessoa.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit3.pas</Transaction>
+    <Transaction>2021/03/23 19:40:36.611,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.Interfaces.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit2.pas</Transaction>
+    <Transaction>2021/03/23 19:42:48.373,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.View.Principal.dfm=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.dfm</Transaction>
+    <Transaction>2021/03/23 19:42:48.373,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.View.Principal.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:01:10.427,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.PessoaFisica.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.Pessoa.pas</Transaction>
+    <Transaction>2021/03/23 20:01:42.612,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:02:09.302,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.PessoaJuridica.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:10:24.583,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:11:09.185,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Model.Pessoa.Factory.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:26:49.363,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:27:40.291,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Controller.Pessoa.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:28:51.243,=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+    <Transaction>2021/03/23 20:29:23.122,C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\eInterface.Controller.Interfaces.pas=C:\Estudos\Clube dos Programadores Delphi\Desmistificando_Interfaces\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

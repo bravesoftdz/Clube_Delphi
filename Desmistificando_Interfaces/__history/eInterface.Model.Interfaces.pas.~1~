@@ -1,0 +1,17 @@
+unit Unit2;
+
+interface
+
+type
+ iPessoa = interface
+   ['{D7198F09-F216-4BF1-8BB4-FB6E8AC46180}']
+
+  function Nome(Value: String): iPessoa;
+  function SobreNome(Value: String): iPessoa;
+  function NomeCompleto: string;
+
+ end;
+
+implementation
+
+end.

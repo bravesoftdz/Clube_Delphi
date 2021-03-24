@@ -1,0 +1,83 @@
+unit eInterface.Model.PessoaFisica;
+
+interface
+
+uses
+  eInterface.Model.Interfaces;
+
+type
+  TModelPessoaFisica = class(TInterfacedObject, iPessoa)
+
+  private
+    FDisplay: tEvDisplay;
+    FNome: string;
+    FSobreNome:String;
+    FCPF: string;
+    function Nome(Value: String): iPessoa;
+    function SobreNome(Value: String): iPessoa;
+    function NomeCompleto: iPessoa;
+    function Display(Value: tEvDisplay): iPessoa;
+    procedure SetCPF(const Value: string);
+    function GetCPF: string;
+  public
+    constructor Create;
+    destructor Destroy; override;
+    class function New: iPessoa;
+    property CPF: string read GetCPF write SetCPF;
+  end;
+
+implementation
+
+{ TModelPessoa }
+
+constructor TModelPessoaFisica.Create;
+begin
+
+end;
+
+destructor TModelPessoaFisica.Destroy;
+begin
+
+  inherited;
+end;
+
+function TModelPessoaFisica.Display(Value: tEvDisplay): iPessoa;
+begin
+  Result := Self;
+  FDisplay := Value;
+end;
+
+function TModelPessoaFisica.GetCPF: string;
+begin
+  Result := FCPF;
+end;
+
+class function TModelPessoaFisica.New: iPessoa;
+begin
+  Result := Self.Create;
+end;
+
+function TModelPessoaFisica.Nome(Value: String): iPessoa;
+begin
+  result := Self;
+  FNome := Value;
+end;
+
+function TModelPessoaFisica.NomeCompleto: iPessoa;
+begin
+  Result := Self;
+  FDisplay(FNome + ' ' + FSobreNome);
+end;
+
+procedure TModelPessoaFisica.SetCPF(const Value: string);
+begin
+  FCPF := Value;
+end;
+
+function TModelPessoaFisica.SobreNome(Value: String): iPessoa;
+begin
+  Result := Self;
+  FSobreNome := Value;
+end;
+
+end.
